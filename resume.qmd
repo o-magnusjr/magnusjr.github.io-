@@ -2,7 +2,8 @@
 layout: cv
 title: Magnus Jr Resume
 ---
-# Isaac Newton
+
+
 BYU-Idaho Student, Future Analyst, Operations Management
 
 
@@ -14,7 +15,7 @@ Operations, Data Analytics, Asset/Wealth/Risk Management, and Business Intellige
 
 `September 2021-December 2025`
 
-Brigham Young University - Idaho
+BSc in Business Analytics at Brigham Young University - Idaho
 
 
 ## Scholarships
@@ -66,6 +67,14 @@ reduction in investment risk
 • Created up to 5 interactive dashboards on Power BI for visualizing performance indicators and benchmark comparisons 
 • Suggested actionable insights for informed investment decisions, contributing to a better portfolio performance by 50% 
 
+
+
+## Key Skills 
+
+• Data Analysis: Python, Pivot Table, and SQL 
+• Business Intelligence Tools: Tableau, and Power BI 
+• Microsoft Office Suite: Word, Excel and Power Point 
+• Soft Skills: Teamwork, Leadership, Communication, Critical Thinking, Problem Solving, Adaptability, and Time Management
 
 
 <!-- ### Footer
