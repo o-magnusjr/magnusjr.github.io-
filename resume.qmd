@@ -28,7 +28,7 @@ Brigham Young University - Idaho (Academic Grant)
 
 `April 2023 - May 2024`
 
-Financial Accounting Teaching Assistant (Online) at Ensign College
+**Financial Accounting Teaching Assistant (Online) at Ensign College**
 
 • Graded and provided feedback for assignment, quizzes and exams for over 60 students in a timely manner 
 
@@ -38,7 +38,7 @@ Financial Accounting Teaching Assistant (Online) at Ensign College
 
 `July 2023 - Spetember 2023`
 
-Summer Operations Intern at Pacific Ag
+**Summer Operations Intern at Pacific Ag**
 
 • Streamlined 2 crop harvesting operations, ensuring timely and efficient resource utilization on a daily basis 
 
@@ -51,7 +51,7 @@ Hermiston, Oregon
 
 `January 2022 - August 2022`
 
-Instructor Evaluation Support Specialist at BYU-Idaho
+**Instructor Evaluation Support Specialist at BYU-Idaho**
 
 • Reviewed Canvas online courses, and increased experience in Excel, Google sheets, Qualtrics and Power Bi 
 
@@ -65,7 +65,7 @@ Instructor Evaluation Support Specialist at BYU-Idaho
 
 `January 2024 - April 2024`
 
-Mutual Fund Analysis (Power BI & Tableau) at BYU-Idaho
+**Mutual Fund Analysis (Power BI & Tableau) at BYU-Idaho**
 
 • Analyzed mutual fund performance using Tableau and Power BI, resulting in a 22% increase in portfolio returns and a 38% reduction in investment risk 
 
@@ -78,8 +78,11 @@ Mutual Fund Analysis (Power BI & Tableau) at BYU-Idaho
 ## Key Skills 
 
 • Data Analysis: Python, Pivot Table, and SQL 
+
 • Business Intelligence Tools: Tableau, and Power BI 
+
 • Microsoft Office Suite: Word, Excel and Power Point 
+
 • Soft Skills: Teamwork, Leadership, Communication, Critical Thinking, Problem Solving, Adaptability, and Time Management
 
 
