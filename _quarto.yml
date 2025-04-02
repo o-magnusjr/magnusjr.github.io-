@@ -2,18 +2,19 @@ project:
   type: website
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Otogwung Magnus Jr - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/username/username.github.io
+  repo-url: https://github.com/o-magnusjr/magnusjr.github.io
+  
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Otogwung Magnus Jr 2024©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: https://www.linkedin.com/in/otogwung-magnus-jr/
 
   navbar:
     background: primary
@@ -176,8 +177,8 @@ website:
 format:  
   html:
     theme: #see this link to customize the theme with css (https://quarto.org/docs/output-formats/html-themes.html#dark-mode)
-      light: flatly # more themes can be found [here](https://quarto.org/docs/output-formats/html-themes.html)
-      dark: darkly
+      light: (optional) # more themes can be found [here](https://quarto.org/docs/output-formats/html-themes.html)
+      dark: (optional)
       #light: cosmo
       #dark: [cosmo, theme-dark.scss]
     css: styles.css
